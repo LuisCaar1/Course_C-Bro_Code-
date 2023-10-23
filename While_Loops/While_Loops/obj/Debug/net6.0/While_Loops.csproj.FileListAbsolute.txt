@@ -1,0 +1,15 @@
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\While_Loops\While_Loops\bin\Debug\net6.0\While_Loops.exe
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\While_Loops\While_Loops\bin\Debug\net6.0\While_Loops.deps.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\While_Loops\While_Loops\bin\Debug\net6.0\While_Loops.runtimeconfig.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\While_Loops\While_Loops\bin\Debug\net6.0\While_Loops.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\While_Loops\While_Loops\bin\Debug\net6.0\While_Loops.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\While_Loops\While_Loops\obj\Debug\net6.0\While_Loops.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\While_Loops\While_Loops\obj\Debug\net6.0\While_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\While_Loops\While_Loops\obj\Debug\net6.0\While_Loops.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\While_Loops\While_Loops\obj\Debug\net6.0\While_Loops.AssemblyInfo.cs
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\While_Loops\While_Loops\obj\Debug\net6.0\While_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\While_Loops\While_Loops\obj\Debug\net6.0\While_Loops.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\While_Loops\While_Loops\obj\Debug\net6.0\refint\While_Loops.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\While_Loops\While_Loops\obj\Debug\net6.0\While_Loops.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\While_Loops\While_Loops\obj\Debug\net6.0\While_Loops.genruntimeconfig.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\While_Loops\While_Loops\obj\Debug\net6.0\ref\While_Loops.dll

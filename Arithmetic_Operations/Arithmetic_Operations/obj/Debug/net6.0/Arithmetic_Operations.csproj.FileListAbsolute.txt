@@ -1,0 +1,15 @@
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Arithmetic_Operations\Arithmetic_Operations\bin\Debug\net6.0\Arithmetic_Operations.exe
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Arithmetic_Operations\Arithmetic_Operations\bin\Debug\net6.0\Arithmetic_Operations.deps.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Arithmetic_Operations\Arithmetic_Operations\bin\Debug\net6.0\Arithmetic_Operations.runtimeconfig.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Arithmetic_Operations\Arithmetic_Operations\bin\Debug\net6.0\Arithmetic_Operations.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Arithmetic_Operations\Arithmetic_Operations\bin\Debug\net6.0\Arithmetic_Operations.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Arithmetic_Operations\Arithmetic_Operations\obj\Debug\net6.0\Arithmetic_Operations.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Arithmetic_Operations\Arithmetic_Operations\obj\Debug\net6.0\Arithmetic_Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Arithmetic_Operations\Arithmetic_Operations\obj\Debug\net6.0\Arithmetic_Operations.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Arithmetic_Operations\Arithmetic_Operations\obj\Debug\net6.0\Arithmetic_Operations.AssemblyInfo.cs
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Arithmetic_Operations\Arithmetic_Operations\obj\Debug\net6.0\Arithmetic_Operations.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Arithmetic_Operations\Arithmetic_Operations\obj\Debug\net6.0\Arithmetic_Operations.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Arithmetic_Operations\Arithmetic_Operations\obj\Debug\net6.0\refint\Arithmetic_Operations.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Arithmetic_Operations\Arithmetic_Operations\obj\Debug\net6.0\Arithmetic_Operations.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Arithmetic_Operations\Arithmetic_Operations\obj\Debug\net6.0\Arithmetic_Operations.genruntimeconfig.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Arithmetic_Operations\Arithmetic_Operations\obj\Debug\net6.0\ref\Arithmetic_Operations.dll

@@ -1,0 +1,15 @@
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Nested_loops\Nested_loops\bin\Debug\net6.0\Nested_loops.exe
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Nested_loops\Nested_loops\bin\Debug\net6.0\Nested_loops.deps.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Nested_loops\Nested_loops\bin\Debug\net6.0\Nested_loops.runtimeconfig.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Nested_loops\Nested_loops\bin\Debug\net6.0\Nested_loops.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Nested_loops\Nested_loops\bin\Debug\net6.0\Nested_loops.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Nested_loops\Nested_loops\obj\Debug\net6.0\Nested_loops.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Nested_loops\Nested_loops\obj\Debug\net6.0\Nested_loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Nested_loops\Nested_loops\obj\Debug\net6.0\Nested_loops.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Nested_loops\Nested_loops\obj\Debug\net6.0\Nested_loops.AssemblyInfo.cs
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Nested_loops\Nested_loops\obj\Debug\net6.0\Nested_loops.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Nested_loops\Nested_loops\obj\Debug\net6.0\Nested_loops.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Nested_loops\Nested_loops\obj\Debug\net6.0\refint\Nested_loops.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Nested_loops\Nested_loops\obj\Debug\net6.0\Nested_loops.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Nested_loops\Nested_loops\obj\Debug\net6.0\Nested_loops.genruntimeconfig.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Nested_loops\Nested_loops\obj\Debug\net6.0\ref\Nested_loops.dll

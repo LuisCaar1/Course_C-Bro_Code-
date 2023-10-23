@@ -1,0 +1,15 @@
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\String_Interpolation\String_Interpolation\bin\Debug\net6.0\String_Interpolation.exe
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\String_Interpolation\String_Interpolation\bin\Debug\net6.0\String_Interpolation.deps.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\String_Interpolation\String_Interpolation\bin\Debug\net6.0\String_Interpolation.runtimeconfig.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\String_Interpolation\String_Interpolation\bin\Debug\net6.0\String_Interpolation.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\String_Interpolation\String_Interpolation\bin\Debug\net6.0\String_Interpolation.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\String_Interpolation\String_Interpolation\obj\Debug\net6.0\String_Interpolation.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\String_Interpolation\String_Interpolation\obj\Debug\net6.0\String_Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\String_Interpolation\String_Interpolation\obj\Debug\net6.0\String_Interpolation.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\String_Interpolation\String_Interpolation\obj\Debug\net6.0\String_Interpolation.AssemblyInfo.cs
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\String_Interpolation\String_Interpolation\obj\Debug\net6.0\String_Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\String_Interpolation\String_Interpolation\obj\Debug\net6.0\String_Interpolation.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\String_Interpolation\String_Interpolation\obj\Debug\net6.0\refint\String_Interpolation.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\String_Interpolation\String_Interpolation\obj\Debug\net6.0\String_Interpolation.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\String_Interpolation\String_Interpolation\obj\Debug\net6.0\String_Interpolation.genruntimeconfig.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\String_Interpolation\String_Interpolation\obj\Debug\net6.0\ref\String_Interpolation.dll

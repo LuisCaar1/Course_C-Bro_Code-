@@ -1,0 +1,15 @@
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Switches\Switches\obj\Debug\net6.0\Switches.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Switches\Switches\obj\Debug\net6.0\Switches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Switches\Switches\obj\Debug\net6.0\Switches.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Switches\Switches\obj\Debug\net6.0\Switches.AssemblyInfo.cs
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Switches\Switches\obj\Debug\net6.0\Switches.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Switches\Switches\bin\Debug\net6.0\Switches.exe
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Switches\Switches\bin\Debug\net6.0\Switches.deps.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Switches\Switches\bin\Debug\net6.0\Switches.runtimeconfig.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Switches\Switches\bin\Debug\net6.0\Switches.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Switches\Switches\bin\Debug\net6.0\Switches.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Switches\Switches\obj\Debug\net6.0\Switches.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Switches\Switches\obj\Debug\net6.0\refint\Switches.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Switches\Switches\obj\Debug\net6.0\Switches.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Switches\Switches\obj\Debug\net6.0\Switches.genruntimeconfig.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Switches\Switches\obj\Debug\net6.0\ref\Switches.dll

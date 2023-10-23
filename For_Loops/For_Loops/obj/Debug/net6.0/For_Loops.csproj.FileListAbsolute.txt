@@ -1,0 +1,15 @@
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\For_Loops\For_Loops\bin\Debug\net6.0\For_Loops.exe
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\For_Loops\For_Loops\bin\Debug\net6.0\For_Loops.deps.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\For_Loops\For_Loops\bin\Debug\net6.0\For_Loops.runtimeconfig.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\For_Loops\For_Loops\bin\Debug\net6.0\For_Loops.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\For_Loops\For_Loops\bin\Debug\net6.0\For_Loops.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\For_Loops\For_Loops\obj\Debug\net6.0\For_Loops.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\For_Loops\For_Loops\obj\Debug\net6.0\For_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\For_Loops\For_Loops\obj\Debug\net6.0\For_Loops.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\For_Loops\For_Loops\obj\Debug\net6.0\For_Loops.AssemblyInfo.cs
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\For_Loops\For_Loops\obj\Debug\net6.0\For_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\For_Loops\For_Loops\obj\Debug\net6.0\For_Loops.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\For_Loops\For_Loops\obj\Debug\net6.0\refint\For_Loops.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\For_Loops\For_Loops\obj\Debug\net6.0\For_Loops.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\For_Loops\For_Loops\obj\Debug\net6.0\For_Loops.genruntimeconfig.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\For_Loops\For_Loops\obj\Debug\net6.0\ref\For_Loops.dll

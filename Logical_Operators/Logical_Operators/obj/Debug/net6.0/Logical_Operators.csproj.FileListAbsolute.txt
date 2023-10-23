@@ -1,0 +1,15 @@
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Logical_Operators\Logical_Operators\bin\Debug\net6.0\Logical_Operators.exe
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Logical_Operators\Logical_Operators\bin\Debug\net6.0\Logical_Operators.deps.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Logical_Operators\Logical_Operators\bin\Debug\net6.0\Logical_Operators.runtimeconfig.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Logical_Operators\Logical_Operators\bin\Debug\net6.0\Logical_Operators.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Logical_Operators\Logical_Operators\bin\Debug\net6.0\Logical_Operators.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Logical_Operators\Logical_Operators\obj\Debug\net6.0\Logical_Operators.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Logical_Operators\Logical_Operators\obj\Debug\net6.0\Logical_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Logical_Operators\Logical_Operators\obj\Debug\net6.0\Logical_Operators.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Logical_Operators\Logical_Operators\obj\Debug\net6.0\Logical_Operators.AssemblyInfo.cs
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Logical_Operators\Logical_Operators\obj\Debug\net6.0\Logical_Operators.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Logical_Operators\Logical_Operators\obj\Debug\net6.0\Logical_Operators.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Logical_Operators\Logical_Operators\obj\Debug\net6.0\refint\Logical_Operators.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Logical_Operators\Logical_Operators\obj\Debug\net6.0\Logical_Operators.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Logical_Operators\Logical_Operators\obj\Debug\net6.0\Logical_Operators.genruntimeconfig.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Logical_Operators\Logical_Operators\obj\Debug\net6.0\ref\Logical_Operators.dll

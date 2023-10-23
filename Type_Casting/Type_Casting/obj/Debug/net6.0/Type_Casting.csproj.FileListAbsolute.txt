@@ -1,0 +1,15 @@
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Type_Casting\Type_Casting\bin\Debug\net6.0\Type_Casting.exe
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Type_Casting\Type_Casting\bin\Debug\net6.0\Type_Casting.deps.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Type_Casting\Type_Casting\bin\Debug\net6.0\Type_Casting.runtimeconfig.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Type_Casting\Type_Casting\bin\Debug\net6.0\Type_Casting.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Type_Casting\Type_Casting\bin\Debug\net6.0\Type_Casting.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Type_Casting\Type_Casting\obj\Debug\net6.0\Type_Casting.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Type_Casting\Type_Casting\obj\Debug\net6.0\Type_Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Type_Casting\Type_Casting\obj\Debug\net6.0\Type_Casting.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Type_Casting\Type_Casting\obj\Debug\net6.0\Type_Casting.AssemblyInfo.cs
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Type_Casting\Type_Casting\obj\Debug\net6.0\Type_Casting.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Type_Casting\Type_Casting\obj\Debug\net6.0\Type_Casting.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Type_Casting\Type_Casting\obj\Debug\net6.0\refint\Type_Casting.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Type_Casting\Type_Casting\obj\Debug\net6.0\Type_Casting.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Type_Casting\Type_Casting\obj\Debug\net6.0\Type_Casting.genruntimeconfig.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Type_Casting\Type_Casting\obj\Debug\net6.0\ref\Type_Casting.dll

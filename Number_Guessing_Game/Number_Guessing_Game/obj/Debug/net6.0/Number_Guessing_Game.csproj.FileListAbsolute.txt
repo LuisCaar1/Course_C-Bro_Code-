@@ -1,0 +1,15 @@
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Number_Guessing_Game\Number_Guessing_Game\bin\Debug\net6.0\Number_Guessing_Game.exe
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Number_Guessing_Game\Number_Guessing_Game\bin\Debug\net6.0\Number_Guessing_Game.deps.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Number_Guessing_Game\Number_Guessing_Game\bin\Debug\net6.0\Number_Guessing_Game.runtimeconfig.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Number_Guessing_Game\Number_Guessing_Game\bin\Debug\net6.0\Number_Guessing_Game.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Number_Guessing_Game\Number_Guessing_Game\bin\Debug\net6.0\Number_Guessing_Game.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\net6.0\Number_Guessing_Game.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\net6.0\Number_Guessing_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\net6.0\Number_Guessing_Game.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\net6.0\Number_Guessing_Game.AssemblyInfo.cs
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\net6.0\Number_Guessing_Game.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\net6.0\Number_Guessing_Game.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\net6.0\refint\Number_Guessing_Game.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\net6.0\Number_Guessing_Game.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\net6.0\Number_Guessing_Game.genruntimeconfig.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\net6.0\ref\Number_Guessing_Game.dll

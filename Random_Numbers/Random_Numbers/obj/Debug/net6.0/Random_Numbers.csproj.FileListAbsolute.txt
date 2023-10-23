@@ -1,0 +1,15 @@
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Random_Numbers\Random_Numbers\bin\Debug\net6.0\Random_Numbers.exe
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Random_Numbers\Random_Numbers\bin\Debug\net6.0\Random_Numbers.deps.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Random_Numbers\Random_Numbers\bin\Debug\net6.0\Random_Numbers.runtimeconfig.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Random_Numbers\Random_Numbers\bin\Debug\net6.0\Random_Numbers.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Random_Numbers\Random_Numbers\bin\Debug\net6.0\Random_Numbers.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Random_Numbers\Random_Numbers\obj\Debug\net6.0\Random_Numbers.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Random_Numbers\Random_Numbers\obj\Debug\net6.0\Random_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Random_Numbers\Random_Numbers\obj\Debug\net6.0\Random_Numbers.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Random_Numbers\Random_Numbers\obj\Debug\net6.0\Random_Numbers.AssemblyInfo.cs
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Random_Numbers\Random_Numbers\obj\Debug\net6.0\Random_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Random_Numbers\Random_Numbers\obj\Debug\net6.0\Random_Numbers.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Random_Numbers\Random_Numbers\obj\Debug\net6.0\refint\Random_Numbers.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Random_Numbers\Random_Numbers\obj\Debug\net6.0\Random_Numbers.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Random_Numbers\Random_Numbers\obj\Debug\net6.0\Random_Numbers.genruntimeconfig.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Random_Numbers\Random_Numbers\obj\Debug\net6.0\ref\Random_Numbers.dll

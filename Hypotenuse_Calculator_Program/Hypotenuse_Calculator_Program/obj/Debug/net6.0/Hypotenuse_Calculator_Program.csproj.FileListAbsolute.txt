@@ -1,0 +1,15 @@
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Hypotenuse_Calculator_Program\Hypotenuse_Calculator_Program\bin\Debug\net6.0\Hypotenuse_Calculator_Program.exe
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Hypotenuse_Calculator_Program\Hypotenuse_Calculator_Program\bin\Debug\net6.0\Hypotenuse_Calculator_Program.deps.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Hypotenuse_Calculator_Program\Hypotenuse_Calculator_Program\bin\Debug\net6.0\Hypotenuse_Calculator_Program.runtimeconfig.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Hypotenuse_Calculator_Program\Hypotenuse_Calculator_Program\bin\Debug\net6.0\Hypotenuse_Calculator_Program.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Hypotenuse_Calculator_Program\Hypotenuse_Calculator_Program\bin\Debug\net6.0\Hypotenuse_Calculator_Program.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Hypotenuse_Calculator_Program\Hypotenuse_Calculator_Program\obj\Debug\net6.0\Hypotenuse_Calculator_Program.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Hypotenuse_Calculator_Program\Hypotenuse_Calculator_Program\obj\Debug\net6.0\Hypotenuse_Calculator_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Hypotenuse_Calculator_Program\Hypotenuse_Calculator_Program\obj\Debug\net6.0\Hypotenuse_Calculator_Program.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Hypotenuse_Calculator_Program\Hypotenuse_Calculator_Program\obj\Debug\net6.0\Hypotenuse_Calculator_Program.AssemblyInfo.cs
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Hypotenuse_Calculator_Program\Hypotenuse_Calculator_Program\obj\Debug\net6.0\Hypotenuse_Calculator_Program.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Hypotenuse_Calculator_Program\Hypotenuse_Calculator_Program\obj\Debug\net6.0\Hypotenuse_Calculator_Program.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Hypotenuse_Calculator_Program\Hypotenuse_Calculator_Program\obj\Debug\net6.0\refint\Hypotenuse_Calculator_Program.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Hypotenuse_Calculator_Program\Hypotenuse_Calculator_Program\obj\Debug\net6.0\Hypotenuse_Calculator_Program.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Hypotenuse_Calculator_Program\Hypotenuse_Calculator_Program\obj\Debug\net6.0\Hypotenuse_Calculator_Program.genruntimeconfig.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Hypotenuse_Calculator_Program\Hypotenuse_Calculator_Program\obj\Debug\net6.0\ref\Hypotenuse_Calculator_Program.dll

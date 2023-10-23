@@ -1,0 +1,15 @@
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Multidimension_Arrays\Multidimension_Arrays\bin\Debug\net6.0\Multidimension_Arrays.exe
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Multidimension_Arrays\Multidimension_Arrays\bin\Debug\net6.0\Multidimension_Arrays.deps.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Multidimension_Arrays\Multidimension_Arrays\bin\Debug\net6.0\Multidimension_Arrays.runtimeconfig.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Multidimension_Arrays\Multidimension_Arrays\bin\Debug\net6.0\Multidimension_Arrays.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Multidimension_Arrays\Multidimension_Arrays\bin\Debug\net6.0\Multidimension_Arrays.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Multidimension_Arrays\Multidimension_Arrays\obj\Debug\net6.0\Multidimension_Arrays.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Multidimension_Arrays\Multidimension_Arrays\obj\Debug\net6.0\Multidimension_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Multidimension_Arrays\Multidimension_Arrays\obj\Debug\net6.0\Multidimension_Arrays.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Multidimension_Arrays\Multidimension_Arrays\obj\Debug\net6.0\Multidimension_Arrays.AssemblyInfo.cs
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Multidimension_Arrays\Multidimension_Arrays\obj\Debug\net6.0\Multidimension_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Multidimension_Arrays\Multidimension_Arrays\obj\Debug\net6.0\Multidimension_Arrays.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Multidimension_Arrays\Multidimension_Arrays\obj\Debug\net6.0\refint\Multidimension_Arrays.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Multidimension_Arrays\Multidimension_Arrays\obj\Debug\net6.0\Multidimension_Arrays.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Multidimension_Arrays\Multidimension_Arrays\obj\Debug\net6.0\Multidimension_Arrays.genruntimeconfig.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Multidimension_Arrays\Multidimension_Arrays\obj\Debug\net6.0\ref\Multidimension_Arrays.dll

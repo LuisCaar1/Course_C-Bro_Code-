@@ -1,0 +1,15 @@
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Contants( π )\Contants( π )\bin\Debug\net6.0\Contants( π ).exe
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Contants( π )\Contants( π )\bin\Debug\net6.0\Contants( π ).deps.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Contants( π )\Contants( π )\bin\Debug\net6.0\Contants( π ).runtimeconfig.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Contants( π )\Contants( π )\bin\Debug\net6.0\Contants( π ).dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Contants( π )\Contants( π )\bin\Debug\net6.0\Contants( π ).pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Contants( π )\Contants( π )\obj\Debug\net6.0\Contants( π ).csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Contants( π )\Contants( π )\obj\Debug\net6.0\Contants( π ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Contants( π )\Contants( π )\obj\Debug\net6.0\Contants( π ).AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Contants( π )\Contants( π )\obj\Debug\net6.0\Contants( π ).AssemblyInfo.cs
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Contants( π )\Contants( π )\obj\Debug\net6.0\Contants( π ).csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Contants( π )\Contants( π )\obj\Debug\net6.0\Contants( π ).dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Contants( π )\Contants( π )\obj\Debug\net6.0\refint\Contants( π ).dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Contants( π )\Contants( π )\obj\Debug\net6.0\Contants( π ).pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Contants( π )\Contants( π )\obj\Debug\net6.0\Contants( π ).genruntimeconfig.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Contants( π )\Contants( π )\obj\Debug\net6.0\ref\Contants( π ).dll

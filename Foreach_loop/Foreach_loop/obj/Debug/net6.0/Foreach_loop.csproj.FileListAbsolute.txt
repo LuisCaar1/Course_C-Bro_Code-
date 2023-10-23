@@ -1,0 +1,15 @@
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Foreach_loop\Foreach_loop\bin\Debug\net6.0\Foreach_loop.exe
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Foreach_loop\Foreach_loop\bin\Debug\net6.0\Foreach_loop.deps.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Foreach_loop\Foreach_loop\bin\Debug\net6.0\Foreach_loop.runtimeconfig.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Foreach_loop\Foreach_loop\bin\Debug\net6.0\Foreach_loop.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Foreach_loop\Foreach_loop\bin\Debug\net6.0\Foreach_loop.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Foreach_loop\Foreach_loop\obj\Debug\net6.0\Foreach_loop.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Foreach_loop\Foreach_loop\obj\Debug\net6.0\Foreach_loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Foreach_loop\Foreach_loop\obj\Debug\net6.0\Foreach_loop.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Foreach_loop\Foreach_loop\obj\Debug\net6.0\Foreach_loop.AssemblyInfo.cs
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Foreach_loop\Foreach_loop\obj\Debug\net6.0\Foreach_loop.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Foreach_loop\Foreach_loop\obj\Debug\net6.0\Foreach_loop.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Foreach_loop\Foreach_loop\obj\Debug\net6.0\refint\Foreach_loop.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Foreach_loop\Foreach_loop\obj\Debug\net6.0\Foreach_loop.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Foreach_loop\Foreach_loop\obj\Debug\net6.0\Foreach_loop.genruntimeconfig.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\Foreach_loop\Foreach_loop\obj\Debug\net6.0\ref\Foreach_loop.dll

@@ -1,0 +1,15 @@
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\rock_paper_scissors_game\rock_paper_scissors_game\bin\Debug\net6.0\rock_paper_scissors_game.exe
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\rock_paper_scissors_game\rock_paper_scissors_game\bin\Debug\net6.0\rock_paper_scissors_game.deps.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\rock_paper_scissors_game\rock_paper_scissors_game\bin\Debug\net6.0\rock_paper_scissors_game.runtimeconfig.json
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\rock_paper_scissors_game\rock_paper_scissors_game\bin\Debug\net6.0\rock_paper_scissors_game.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\rock_paper_scissors_game\rock_paper_scissors_game\bin\Debug\net6.0\rock_paper_scissors_game.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\rock_paper_scissors_game\rock_paper_scissors_game\obj\Debug\net6.0\rock_paper_scissors_game.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\rock_paper_scissors_game\rock_paper_scissors_game\obj\Debug\net6.0\rock_paper_scissors_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\rock_paper_scissors_game\rock_paper_scissors_game\obj\Debug\net6.0\rock_paper_scissors_game.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\rock_paper_scissors_game\rock_paper_scissors_game\obj\Debug\net6.0\rock_paper_scissors_game.AssemblyInfo.cs
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\rock_paper_scissors_game\rock_paper_scissors_game\obj\Debug\net6.0\rock_paper_scissors_game.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\rock_paper_scissors_game\rock_paper_scissors_game\obj\Debug\net6.0\rock_paper_scissors_game.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\rock_paper_scissors_game\rock_paper_scissors_game\obj\Debug\net6.0\refint\rock_paper_scissors_game.dll
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\rock_paper_scissors_game\rock_paper_scissors_game\obj\Debug\net6.0\rock_paper_scissors_game.pdb
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\rock_paper_scissors_game\rock_paper_scissors_game\obj\Debug\net6.0\rock_paper_scissors_game.genruntimeconfig.cache
+C:\Users\Luis\OneDrive\Escritorio\C#\Course_C#(Bro_Code)\rock_paper_scissors_game\rock_paper_scissors_game\obj\Debug\net6.0\ref\rock_paper_scissors_game.dll
